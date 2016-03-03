@@ -18,6 +18,8 @@ public class MainActivity extends Activity {
 //rama
 
 		 GridView gridview = (GridView) findViewById(R.id.gridview);
+
+//Add New Line
 		    gridview.setAdapter(new ImageAdapter(this));
 
 		    gridview.setOnItemClickListener(new OnItemClickListener() {
