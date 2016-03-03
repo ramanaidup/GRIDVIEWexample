@@ -15,6 +15,8 @@ public class MainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 		 GridView gridview = (GridView) findViewById(R.id.gridview);
+
+//Add New Line
 		    gridview.setAdapter(new ImageAdapter(this));
 
 		    gridview.setOnItemClickListener(new OnItemClickListener() {
