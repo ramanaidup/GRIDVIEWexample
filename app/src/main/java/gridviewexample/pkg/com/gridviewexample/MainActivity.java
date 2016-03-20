@@ -10,10 +10,19 @@ import android.widget.Toast;
 
 public class MainActivity extends Activity {
 
+//dem
+//d4
+//d5
+//d6
+//demo5
+
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
+
+
+
 		 GridView gridview = (GridView) findViewById(R.id.gridview);
 
 //Add New Line
