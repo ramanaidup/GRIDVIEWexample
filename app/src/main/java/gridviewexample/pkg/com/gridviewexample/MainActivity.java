@@ -9,7 +9,11 @@ import android.widget.GridView;
 import android.widget.Toast;
 
 public class MainActivity extends Activity {
-
+//dem
+//d4
+//d5
+//d6
+//d7
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
