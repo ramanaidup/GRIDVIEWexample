@@ -9,6 +9,13 @@ import android.widget.GridView;
 import android.widget.Toast;
 
 public class MainActivity extends Activity {
+<<<<<<< HEAD
+//ds
+//d2
+//d3
+//d4
+//d5
+=======
 
 //rama
 //rama
@@ -16,16 +23,12 @@ public class MainActivity extends Activity {
 //rama
 //rama
 
+>>>>>>> refs/remotes/origin/develop2
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
-
-
-
 		 GridView gridview = (GridView) findViewById(R.id.gridview);
-
-//Add New Line
 		    gridview.setAdapter(new ImageAdapter(this));
 
 		    gridview.setOnItemClickListener(new OnItemClickListener() {
