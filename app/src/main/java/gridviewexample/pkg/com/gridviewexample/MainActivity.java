@@ -11,7 +11,7 @@ import android.widget.Toast;
 public class MainActivity extends Activity {
 <<<<<<< HEAD
 //ds
-//d2
+//d7
 //d3
 //d4
 //d5
