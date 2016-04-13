@@ -9,11 +9,21 @@ import android.widget.GridView;
 import android.widget.Toast;
 
 public class MainActivity extends Activity {
+<<<<<<< HEAD
 //ds
 //d2
 //d3
 //d4
 //d5
+=======
+
+//rama
+//rama
+//rama
+//rama
+//rama
+
+>>>>>>> refs/remotes/origin/develop2
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
